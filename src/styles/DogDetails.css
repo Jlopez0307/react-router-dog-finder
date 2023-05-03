@@ -1,0 +1,23 @@
+.DogDetails{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+
+    border: 1px solid rgba(194, 194, 194, 0.584);
+    box-shadow: 5px 5px 5px rgba(203, 203, 203, 0.51);
+    border-radius: 25px;
+    position: relative;
+    top: 50px;
+    width: 50vw;
+}
+
+.DogDetails .DogDetails-img{
+    width: 20vw;
+    height: auto;
+}
+
+.DogDetails ul{
+    list-style: none;
+}
